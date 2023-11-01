@@ -1,0 +1,231 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: #001689;
+}
+
+.navbar a.nav-link {
+    color: #fff;
+}
+#carouselExample{
+    margin-top:-30px;
+}
+
+.navbar a.nav-link:hover {
+    color: #f8f9fa;
+}
+body {
+padding-top: 70px; /* Adjust this value to match the height of the navbar */
+}
+.nav-up {
+top: -70px; /* Height of the navbar */
+}
+.top-banner {
+    margin-bottom: 30px;
+}
+.cus_set_your_goal h2.rich-text__heading {
+color: #F1F1F2;
+font-weight: 700;
+}
+h2.hxl {
+font-size: 128px;
+line-height: 153px;
+}
+h2.rich-text__heading.rte span {
+color: #858d94;
+}
+.owl-carousel .owl-item {
+display: flex;
+}
+.owl-carousel img {
+max-width: 100%;
+margin: auto;
+}
+.owl-prev, .owl-next {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: 40px;
+height: 40px;
+background: #333;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #fff;
+font-size: 24px;
+}
+.owl-prev {
+left: -50px;
+}
+.owl-next {
+right: -50px;
+}
+
+.carousel2{
+padding-top: 30px;
+padding-bottom: 30px;
+background-color: #001689;
+}
+.shopnow{
+padding: 15px;
+border-radius: 5px;
+background-color: #001689;
+color: #F1F1F2;
+}
+.shopnow:hover{
+background-color: #F1F1F2;
+color: #001689;
+transition: .9s;
+}
+.shopnowdiv{
+text-align: center;
+}
+.afteprotien{
+    width: 100%;
+    height: 300px;
+    background-color: #333;
+    color: #F1F1F2;
+    font-weight: 700;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.afteprotienvid{
+    margin-bottom: 100px;
+    width: auto;
+    height: 300px;
+}
+.afteprotienvid iframe{
+    width: 80%;
+    height: 400px;
+}
+#favourites{
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+    -webkit-text-stroke : 1px #001689;
+    margin-bottom: 20px;
+}
+#txt-style{
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+    -webkit-text-stroke : 1px #001689;
+    margin-bottom: 20px;
+}   
+#txt-style2{
+    color: #001689;
+    -webkit-text-stroke : 1px #001689;
+}
+.marquee-txt{
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+    -webkit-text-stroke : 1px #001689;
+}
+.marquee-txt2{
+    font-size: 41px;
+    font-weight:900;
+    color: #001689;
+    -webkit-text-stroke : 1px #001689;
+}
+#quality-contol{
+    background-color:#dfdfdf;
+    width: 100%;
+    padding: 30px;
+    color: black;
+    margin-bottom: -30px;
+}
+#quality-control h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.qualitylinks{
+    margin: 20px;
+    text-decoration: none;
+    color:#001689;
+    font-size: 25px;
+    font-weight: 500;
+}
+.footer-list{
+    text-decoration: none;
+    color: #fff;
+    line-height: 3;
+}
+.footer h5{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.txt-style3{
+    color: #000000;
+    -webkit-text-stroke : 1px #fff;
+}
+.news-btn{
+    padding:12px;
+    border-radius: 5px;
+}
+.news-btn:hover{
+    background-color:cornflowerblue;
+    color: #fff;
+    transition: .4s;
+}
+.custom-input{
+    background-color: transparent;
+    outline: none;
+    padding: 10px;
+    border: none;
+    border-bottom-style: outset;
+    color: #F1F1F2;
+}
+
+.socialmedia:hover{
+    color:aqua;
+}
+.blog1{
+    background-image: radial-gradient(
+        rgba(0, 0, 0, 0.5), 
+        rgba(0, 0, 0, 0.5)), url("https://www.usn.co.za/cdn/shop/files/Find_your_greatness_with_our_blogs-01.webp?v=1689321868&width=1072");
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blog2{
+    padding:  0px 5px 10px 0px;
+}
+.blog3{
+    padding:  0px 0px 10px 5px;
+}
+#txt-style .blogh1{
+    font-size: 100px;
+    letter-spacing: 15px;
+    font-weight:900;
+    padding: 0px 20px;
+    color: #000000;
+    -webkit-text-stroke : 1px #fff;
+}
+#txt-style h3{
+    color: #000000;
+    font-weight: 500;
+    padding: 0px 20px;
+    color: #000000;
+    -webkit-text-stroke : 1px #000000;
+}
+.blog-btn{
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    color: #ffff;
+    -webkit-text-stroke : 1px #fff;
+    background-color: transparent;
+    border-color: #fff;
+}
+.blog-btn:hover{
+    border: 1px solid #fff;
+}
+    
